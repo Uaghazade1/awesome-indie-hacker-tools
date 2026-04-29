@@ -11,6 +11,17 @@ export const analyticsTools = [
     },
   },
   {
+    title: "Sleek Analytics",
+    category: "统计分析",
+    tags: ["开源", "产品分析", "用户行为"],
+    slug: "sleek",
+    description: "Google Analytics Alternative for Modern Web",
+    site: {
+      name: "Sleek Analytocs",
+      url: "https://getsleek.io/",
+    },
+  },
+  {
     title: "Mixpanel",
     category: "统计分析",
     tags: ["用户行为", "留存分析", "个性化营销"],
