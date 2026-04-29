@@ -17,7 +17,7 @@ export const analyticsTools = [
     slug: "sleek",
     description: "Google Analytics Alternative for Modern Web",
     site: {
-      name: "Sleek Analytocs",
+      name: "Sleek Analytics",
       url: "https://getsleek.io/",
     },
   },
