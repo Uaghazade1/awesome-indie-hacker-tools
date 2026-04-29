@@ -15,7 +15,7 @@ export const analyticsTools = [
     category: "统计分析",
     tags: ["开源", "产品分析", "用户行为"],
     slug: "sleek",
-    description: "Google Analytics Alternative for Modern Web",
+    description: "面向现代网站的 Google Analytics 替代方案，提供简洁的流量与用户行为分析。",
     site: {
       name: "Sleek Analytics",
       url: "https://getsleek.io/",
